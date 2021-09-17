@@ -2,7 +2,7 @@ import React from 'react';
 import Card from './Card';
 
 const CardList = ({ robots }) => {
-
+    
     return (
         <div>
             { //wrapped in curly braces to show that its javascript code
